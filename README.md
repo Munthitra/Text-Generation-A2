@@ -1,3 +1,3 @@
 # Text-Generation-A2
  ![image](https://github.com/Munthitra/Text-Generation-A2/assets/141125180/8efeec50-6bec-4593-85cf-f4721e4ab5c8)
-
+This web application is like a tool that lets you do a fun activity with text. You can type something in a box, choose how creative you want the tool to be, and then click a "Generate Text" button. After clicking, the tool shows you a new piece of text it created based on what you typed. It's like having a conversation with the tool, and the more creative you ask it to be, the more surprising the text can be. The tool uses a LSTM language model in the background to do this, making it feel like you're chatting with a creative companion.
